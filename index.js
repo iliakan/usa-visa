@@ -12,6 +12,8 @@ function log(...args) {
 }
 
 const APPOINTMENT_URL = 'https://ais.usvisa-info.com/en-nl/niv/schedule/51069667/appointment/days/43.json?appointments[expedite]=false';
+
+// maybe APPOINTMENT_URL_REFERER=APPOINTMENT_URL will also be ok, didn't check
 const APPOINTMENT_URL_REFERER = 'https://ais.usvisa-info.com/en-nl/niv/schedule/51069667/appointment?utf8=%E2%9C%93&applicants%5B%5D=59551424&applicants%5B%5D=59551516&confirmed_limit_message=1&commit=Continue';
 
 async function login() {
