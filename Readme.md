@@ -1,10 +1,11 @@
-USA Visa Appointment Checker
+USA Visa Appointment Time Checker
 
 /Node.js programming skills required, read code/
+/MacOS-specific notifications calls/
 
 Set username(email) and password:
 
 - USA_USER
 - USA_PASSWD
 
-Also check appointment urls to reflect your user.
+Also change appointment urls to reflect your user.
