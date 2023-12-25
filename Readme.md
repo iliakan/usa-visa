@@ -1,7 +1,7 @@
 USA Visa Appointment Time Checker
 
-/Node.js programming skills required, read code/
-/MacOS-specific notifications calls/
+- Node.js programming skills required, read code
+- MacOS-specific notifications calls
 
 Set username(email) and password:
 
