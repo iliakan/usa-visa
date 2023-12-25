@@ -11,6 +11,7 @@ function log(...args) {
   console.log(new Date(), ...args);
 }
 
+// put the URL of your appointment calendar here
 const APPOINTMENT_URL = 'https://ais.usvisa-info.com/en-nl/niv/schedule/51069667/appointment/days/43.json?appointments[expedite]=false';
 
 // maybe APPOINTMENT_URL_REFERER=APPOINTMENT_URL will also be ok, didn't check
