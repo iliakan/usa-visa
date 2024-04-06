@@ -12,5 +12,5 @@ You'll need to:
 
 Sorry it's just a small thingy for myself, if you can make it more generic, please PR ;)
 
-P.S. Getting the appointment is the toughest part, inside they are fine, but ensure all requested documents are in with you. I was asked for my CV (!) Luckily I prepared it in advance (it was noted somewhere as a required document, but I didn't really expect them to want it).
+P.S. Getting the appointment is the toughest part, inside they are fine, but ensure all requested documents are with you. I was asked for my CV (!) Luckily I prepared it in advance (it was noted somewhere as a required document, but I didn't really expect them to want it).
 
