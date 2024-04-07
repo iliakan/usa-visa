@@ -83,7 +83,7 @@ async function run() {
 
       // always shows "no appointments" in some periods
       // then we wait longer
-      waitTime = hasDates ? 10e3 : 200e3;
+      waitTime = hasDates ? 4*60e3 : 20*60e3;
 
     } catch(err) {
       console.error(err);
